@@ -9,6 +9,8 @@ Link to the Course Page of the Presentation: https://www.cs.toronto.edu/~cmaddis
 
 If you have any questions, please contact zhibozhang@cs.toronto.edu
 
+Acknoledgement: Thanks to Prof. Chris Maddison for the discussion and guidance.
+
 ## References:
 [1] Schulman, J., Moritz, P., Levine, S., Jordan, M., & Abbeel, P. (2015). High-dimensional continuous control using generalized advantage estimation. arXiv preprint arXiv:1506.02438.
 
